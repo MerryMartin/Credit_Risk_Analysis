@@ -14,6 +14,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Balanced Accuracy:  .65
     * Precision (high_risk):  .01  
     * Recall (high_risk):  .72  
+![RandomOverSampler](https://user-images.githubusercontent.com/115426070/219732377-7e050985-deea-4cd1-ba90-74e657c3c6a4.png)
 
 
 
@@ -23,6 +24,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Precision (high_risk):  .01  
     * Recall (high_risk):  .63
 
+![SMOTE](https://user-images.githubusercontent.com/115426070/219732450-18696698-0f74-4814-845b-fdc5a9700383.png)
 
 
 
@@ -31,6 +33,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Precision (high_risk):  .01
     * Recall (high_risk):  .69
 
+![ClusterCentroids](https://user-images.githubusercontent.com/115426070/219732522-32d653e3-7977-40c3-bba4-dd0b115cdeed.png)
 
 
 
@@ -39,6 +42,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Precision (high_risk):  .01 
     * Recall (high_risk):  .71
 
+![SMOTEEN](https://user-images.githubusercontent.com/115426070/219732590-bfcf8e3b-0bce-4c13-8dc8-741f68ef431e.png)
 
 
 
@@ -47,6 +51,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Precision (high_risk):  .03 
     * Recall (high_risk):  .70
 
+![BalancedRandomForestClassifier](https://user-images.githubusercontent.com/115426070/219732655-02f30425-e595-4b72-a113-0f6d38c2a59d.png)
 
 
 
@@ -55,6 +60,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Precision (high_risk):  .09 
     * Recall (high_risk):  .92
 
+![EasyEnsembleClassifier](https://user-images.githubusercontent.com/115426070/219732700-9b33d2dc-dd25-4cbb-a99b-26970fa5cd08.png)
 
 
 
@@ -62,6 +68,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
 ## Summary
 ### Feature Importance
 According to the analysis, the following features are the most important, when detecting high_risk loans
+![Top_Five](https://user-images.githubusercontent.com/115426070/219732750-43711432-35b7-4820-bcc1-4a2aeca887ef.png)
 
 
 
