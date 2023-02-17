@@ -14,6 +14,7 @@ All models were evaluated by calculating their accuracy score, generating a conf
     * Balanced Accuracy:  .65
     * Precision (high_risk):  .01  
     * Recall (high_risk):  .72  
+    
 ![RandomOverSampler](https://user-images.githubusercontent.com/115426070/219732377-7e050985-deea-4cd1-ba90-74e657c3c6a4.png)
 
 
